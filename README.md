@@ -1,7 +1,7 @@
 # SparseFile
 Консольная утилита на языке Си для создания разрежённого файла
 
-## Установка и запуск
+## Установка
 ```bash
 git clone https://github.com/AtkishkinVlad/SparseFile.git
 cd SparseFile
