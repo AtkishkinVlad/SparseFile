@@ -10,6 +10,5 @@ make
 
 ## Запуск тестов
 ```bash
-source runme.sh или
-./runme.sh
+source runme.sh
 ```
